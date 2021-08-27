@@ -14,7 +14,7 @@ permalink: /
       <div class="col-md-3 col-xs-6">
         <a href="https://mirrors.tuna.tsinghua.edu.cn/">{% include pic.html name="service/mirrors" %}</a>
         <h4>开源镜像站 <a href="https://mirrors.tuna.tsinghua.edu.cn/"><i class="fa fa-hand-o-right"></i></a></h4>
-        <p>硬盘太小</p>
+        <p><s>先用着清华的</s></p>
       </div>
       <div class="col-md-3 col-xs-6">
         <a href="{{ "/help/dns/" | prepend: site.baseurl }}">{% include pic.html name="service/dns" %}</a>
@@ -24,7 +24,7 @@ permalink: /
       <div class="col-md-3 col-xs-6">
         <a href="{{ "/help/ntp/" | prepend: site.baseurl }}">{% include pic.html name="service/ntp" %}</a>
         <h4>网络授时 <a href="{{ "/help/ntp/" | prepend: site.baseurl }}"><i class="fa fa-hand-o-right"></i></a></h4>
-        <p>没服务器</p>
+        <p>还没来得及搞</p>
       </div>
 <!--{% unless site.isthu %}
       <div class="col-md-3 col-xs-6">
@@ -100,7 +100,7 @@ permalink: /
       </div>
     </div>
     <div id="recent-posts" class="col-md-6 col-md-pull-6">
-      <h2> # 最近文章 </h2> 
+      <h2> # 资料分享 </h2> 
       {% for post in site.categories['blog'] limit:5 %} 
       <div class="post">
         <div class="post-title">
