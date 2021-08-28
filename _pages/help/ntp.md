@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ITE NTP (网络授时) 服务使用说明"
+title: "ITE NTP190 (网络授时) 服务使用说明"
 author: Peter Pan
 permalink: /help/ntp/
 ---
