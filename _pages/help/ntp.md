@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ITE NTP (网络授时) 服务使用说明（未启用）"
+title: "ITE NTP (网络授时) 服务使用说明"
 author: Peter Pan
 permalink: /help/ntp/
 ---
@@ -12,6 +12,8 @@ ITE 现提供一台时间服务器：
 # 192.168.6.190
 
 服务器位于江理工校内，仅提供 IPv4 服务。校内师生可以使用这一服务进行一般的时间校准工作，但需要进行校园网认证，故不建议在宿舍网内使用。
+
+校外或宿舍网使用NTP服务需使用[远程接入](http://www.jstu.edu.cn/3412/list.htm)。
 
 ### 服务介绍
 
@@ -35,7 +37,7 @@ NTP (网络时间协议, network time protocol) 是网络中保持时间同步�
 
 ### Windows 客户端配置
 
-Windows XP 及以下版本的配置方式可以参看上海大学 NTP 网站上提供的[教程](http://cms.shu.edu.cn/Default.aspx?alias=cms.shu.edu.cn/ntp)。  
+Windows 7 及以下版本的配置方式可以参看中国科学院提供的[教程](http://www.cas.cn/tz/201809/t20180921_4664344.shtml)。  
 
 #### Windows 10 客户端配置
 
