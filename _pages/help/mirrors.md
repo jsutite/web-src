@@ -25,7 +25,7 @@ ITE 现提供一台**内网**开源镜像服务器。
 
 ```
 sudo sed -e 's|^mirrorlist=|#mirrorlist=|g' \
-         -e 's|^#baseurl=http://mirror.centos.org|baseurl=https://192.168.6.189|g' \
+         -e 's|^#baseurl=http://mirror.centos.org|baseurl=http://192.168.6.189|g' \
          -i.bak \
          /etc/yum.repos.d/CentOS-*.repo
 ```
