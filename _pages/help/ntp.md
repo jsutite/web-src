@@ -7,7 +7,7 @@ permalink: /help/ntp/
 
 ### 服务总览
 
-TUNA 现提供一台时间服务器：
+ITE 现提供一台时间服务器：
 
     ntp.ite.jsut.edu.cn
 
