@@ -21,6 +21,6 @@ sass:
 future: true
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "江苏理工学院网络与开源软件协会原名江苏理工学院网络协会，注册名江苏理工学院网络协会，是由江苏理工学院网络技术和开源软件爱好者、技术宅组成的团体。现阶段向校内外提供开源软件镜像等服务。"
+about: "江苏理工学院网络与开源软件协会原名江苏理工学院网络协会，注册名江苏理工学院网络协会，是由江苏理工学院网络技术和开源软件爱好者、技术宅组成的团体。现阶段仅向校内提供开源软件镜像等服务。"
 
 include: ['_pages']
