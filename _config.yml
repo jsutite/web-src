@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: "江苏理工学院网络与开源软件协会"
-brand: "江苏理工学院网络与开源软件协会"
+title: "江苏理工 ITE 协会"
+brand: "江苏理工 ITE 协会"
 description: "前·江苏理工学院网络协会"
 baseurl: "" #important: start with /
 url: "https://jsutite.github.io/"
@@ -21,6 +21,6 @@ sass:
 future: true
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "江苏理工学院网络与开源软件协会原名江苏理工学院网络协会，注册名江苏理工学院网络协会，是由江苏理工学院网络技术和开源软件爱好者、技术宅组成的团体。现阶段仅向校内提供开源软件镜像等服务。"
+about: "江苏理工 ITE 协会全名江苏理工学院网络与开源软件协会，注册名江苏理工学院网络协会，是由江苏理工学院网络技术和开源软件爱好者、技术宅组成的团体。现阶段仅向校内提供开源软件镜像等服务。"
 
 include: ['_pages']
