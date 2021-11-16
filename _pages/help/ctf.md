@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ITE CTF189 (CTF夺旗赛) 服务使用说明"
+title: "ITE CTF (CTF夺旗赛) 服务使用说明"
 author: Peter Pan
 permalink: /help/ctf/
 ---
@@ -8,8 +8,6 @@ permalink: /help/ctf/
 ### 服务总览
 
 ITE 现提供一台**内网**CTF服务器。
-
-# [192.168.6.189:8000](http://192.168.6.189:8000/)
 
 以下是一些注意事项。
 
@@ -25,4 +23,4 @@ ITE 现提供一台**内网**CTF服务器。
 
 **诚信比成绩更重要！** 我们真诚地希望各位选手能向所有人展现出我们应有的诚信水平，营造公平公正的比赛氛围，在比赛中有所收获！
 
-# [H4ck for FUN not for PROFIT.](http://192.168.6.189:8000/)
+# [H4ck for FUN not for PROFIT.]()
