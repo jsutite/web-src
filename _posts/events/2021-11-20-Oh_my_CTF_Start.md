@@ -15,10 +15,12 @@ tags:
 # [参赛文档](../../../file/网络协会_Oh_my_CTF_参赛指北.pdf)
 
 **MD5** 29ed541a382ac8450c4e64bea947e5e4
+
 **SHA-1** c63c17d978dc762bdfdfc7eb8569286390329993
+
 **SHA-256** dc7293481088c63cbe2a3e4102439c63723a0916d31f13feba276ef4c348ff97
 
-# [Welcome to JSUT-ITE Oh my CTF](./file/网络协会_Oh_my_CTF_参赛指北.pdf)
+# [Welcome to JSUT-ITE Oh my CTF](../../../file/网络协会_Oh_my_CTF_参赛指北.pdf)
 
 欢迎来到 2021 年江理工信息安全大赛。，时间为 11月 20 号0:00 到 11月 21 号 0:00。
 
@@ -37,5 +39,5 @@ tags:
 4. 如果选手发现比赛作弊现象，无论该作弊行为是出于何种目的，选手都应该拒绝加入并且告知组委会；
 诚信比成绩更重要！我们真诚地希望各位选手能向所有人展现出我们应有的诚信水平，营造公平公正的比赛氛围，在比赛中有所收获！
 
-# [H4ck for FUN not for PROFITS.](./file/网络协会_Oh_my_CTF_参赛指北.pdf)
+# [H4ck for FUN not for PROFITS.](../../../file/网络协会_Oh_my_CTF_参赛指北.pdf)
 
