@@ -12,7 +12,7 @@ tags:
   - Oh my CTF
 ---
 
-# [参赛文档](./file/网络协会_Oh_my_CTF_参赛指北.pdf)
+# [参赛文档](../../../file/网络协会_Oh_my_CTF_参赛指北.pdf)
 
 **MD5** 29ed541a382ac8450c4e64bea947e5e4
 **SHA-1** c63c17d978dc762bdfdfc7eb8569286390329993
